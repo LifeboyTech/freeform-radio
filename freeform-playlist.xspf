@@ -1,84 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <playlist xmlns="http://xspf.org/ns/0/" version="1">
-	<title>Lifeboy Radio</title>
+	<title>Freeform Radio</title>
 	<creator>VOX</creator>
-	<date>2017-01-04T13:14:19+05:00</date>
+	<date>2017-01-05T13:14:19+05:00</date>
 	<trackList>
 		<track>
 			<location>http://live-mp3-128.kexp.org:8000/listen.pls</location>
-			<title>KEXP.ORG 90.3FM - where the music matters</title>
+			<title>KEXP / Seattle, WA USA</title>
 			<trackNum>1</trackNum>
 			<duration>0</duration>
 		</track>
 		<track>
 			<location>http://www.wfuv.org/sites/all/files/streams/wfuvmp3high.pls</location>
-			<title>WFUV 128k</title>
+			<title>WFUV / Bronx, NY USA</title>
 			<trackNum>2</trackNum>
 			<duration>0</duration>
 		</track>
 		<track>
 			<location>http://wfmu.org/wfmu.pls</location>
-			<title>WFMU Freeform Radio</title>
+			<title>WFMU / Jersey City, NJ USA</title>
 			<trackNum>3</trackNum>
 			<duration>0</duration>
 		</track>
 		<track>
 			<location>https://www.wwoz.org/listen/hi</location>
-			<title>WWOZ</title>
+			<title>WWOZ / New Orleans, LA USA</title>
 			<trackNum>4</trackNum>
 			<duration>0</duration>
 		</track>
 		<track>
 			<location>http://www.koop.org/sites/default/files/stream/KOOP-Stream-MP3.pls</location>
-			<title>KOOP Radio 91.7FM Austin, TX</title>
+			<title>KOOP / Austin, TX USA</title>
 			<trackNum>5</trackNum>
 			<duration>0</duration>
 		</track>
 		<track>
 			<location>http://www.kaosradio.org/streams/kaos128.pls</location>
-			<title>89.3 KAOS Olympia, WA - Live From The Evergreen State College</title>
+			<title>KAOS / Olympia, WA USA</title>
 			<trackNum>6</trackNum>
 			<duration>0</duration>
 		</track>
 		<track>
 			<location>http://audio-mp3.ibiblio.org:8000/wxyc.mp3</location>
-			<title>WXYC  - UNC Chapel Hill, NC</title>
+			<title>WXYC / Chapel Hill, NC USA</title>
 			<trackNum>7</trackNum>
 			<duration>0</duration>
 		</track>
 		<track>
 			<location>http://stream.kpsu.org:8080/listen</location>
-			<title>KPSU College Radio</title>
+			<title>KPSU / Portland, OR USA</title>
 			<trackNum>8</trackNum>
 			<duration>0</duration>
 		</track>
 		<track>
 			<location>http://wmuc.umd.edu/wmuc-high.m3u</location>
-			<title>WMUC 88.1FM</title>
+			<title>WMUC / College Park, MD USA</title>
 			<trackNum>9</trackNum>
 			<duration>0</duration>
 		</track>
 		<track>
 			<location>http://wrir.serverroom.us:7722/wrir</location>
-			<title>WRIR</title>
+			<title>WRIR / Richmond, VA USA</title>
 			<trackNum>10</trackNum>
 			<duration>0</duration>
 		</track>
 		<track>
 			<location>http://icecast.media.berkeley.edu:8000/kalx-128.mp3.m3u</location>
-			<title>KALX_128k</title>
+			<title>KALX / Berkeley, CA USA</title>
 			<trackNum>11</trackNum>
 			<duration>0</duration>
 		</track>
 		<track>
 			<location>http://lxap05.pugetsound.edu:8000/KUPS-Stream</location>
-			<title>KUPS Live Stream</title>
+			<title>KUPS / Tacoma, WA USA</title>
 			<trackNum>12</trackNum>
 			<duration>0</duration>
 		</track>
 		<track>
 			<location>http://marconi.emerson.edu:8000/wers</location>
-			<title>wers</title>
+			<title>WERS / Boston, MA USA</title>
 			<trackNum>13</trackNum>
 			<duration>0</duration>
 		</track>
