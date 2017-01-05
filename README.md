@@ -13,3 +13,7 @@
 
 * Commercial-free / listener supported
 * At least 128k streams
+
+## Contributing
+
+Yes, please! Fork, or submit pull requests. 
