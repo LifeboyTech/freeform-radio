@@ -7,10 +7,11 @@
 ## Objectives
 
 * Create the definitive playlist/tuner for real, freeform radio streams. 
-* Curate a set of playlist files which can be imported into free audio players such as [Vox](https://vox.rocks/).
+* Curate a set of playlist files which can be imported into free audio players such as [Vox](https://vox.rocks/) and [VLC](http://www.videolan.org/vlc/index.html).
 
 ## Guidelines. All feeds / stations must be:
 
+* [Freeform Radio Format](https://en.wikipedia.org/wiki/Freeform_(radio_format))
 * Commercial-free / listener supported
 * At least 128k streams
 
